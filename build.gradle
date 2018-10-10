@@ -1,0 +1,4 @@
+allprojects {
+    group = 'be.ordina.jworks'
+    version = '0.0.1-SNAPSHOT'
+}
